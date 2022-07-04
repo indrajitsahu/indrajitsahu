@@ -1,5 +1,5 @@
 
-![code-github](https://user-images.githubusercontent.com/76425862/177091616-739f44be-85dc-4346-b478-333c4c072318.gif)
+<p><img align="center" height="250px" width="450px" margin="auto" src="https://user-images.githubusercontent.com/76425862/177091616-739f44be-85dc-4346-b478-333c4c072318.gif" alt="indrajitsahu" /></p>
 
 <h1 align="center">Hi 👋, I'm Indrajit Sahu.</h1>
 <h3 align="center">A passionate coder/developer, exploring the world of coding.</h3>
