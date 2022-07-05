@@ -1,5 +1,5 @@
 
-<p><img align="center" src="https://user-images.githubusercontent.com/76425862/177091616-739f44be-85dc-4346-b478-333c4c072318.gif" alt="indrajitsahu" /></p>
+<p><img align="center" width="580px" height="328px" src="https://user-images.githubusercontent.com/76425862/177091616-739f44be-85dc-4346-b478-333c4c072318.gif" alt="indrajitsahu" /></p>
 
 <h1 align="center">Hi 👋, I'm Indrajit Sahu.</h1>
 <h3 align="center">A passionate coder/developer, exploring the world of coding.</h3>
