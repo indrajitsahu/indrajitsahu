@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/indrajitsahu30" target="blank"><img src="https://img.shields.io/twitter/follow/indrajitsahu30?logo=twitter&style=for-the-badge" alt="indrajitsahu30" /></a> </p>
 
-- 🔭 I’m currently working on [Full HD Video Calling App](https://github.com/indrajitsahu/Random-Video-Calling-App-FullHD)
-
 - 🌱 I’m currently learning **React and polishing MERN.**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/3uoFBcZ](https://bit.ly/3uoFBcZ)
