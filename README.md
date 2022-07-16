@@ -1,6 +1,3 @@
-
-<p><img align="center" src="https://user-images.githubusercontent.com/76425862/177091616-739f44be-85dc-4346-b478-333c4c072318.gif" alt="indrajitsahu" /></p>
-
 <h1 align="center">Hi 👋, I'm Indrajit Sahu.</h1>
 <h3 align="center">A passionate coder/developer, exploring the world of coding.</h3>
 
@@ -10,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and polishing MERN.**
 
-- 👨‍💻 All of my projects are available at [My Repo](https://bit.ly/3uoFBcZ](https://bit.ly/3uoFBcZ)
+- 👨‍💻 All of my projects are available at [My Repo](https://github.com/indrajitsahu?tab=repositories)
 
 - 📫 To reach me out **indrajit93388@gmail.com**
 
