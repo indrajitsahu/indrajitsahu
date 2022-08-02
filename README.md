@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Indrajit Sahu.</h1>
-<h3 align="center">A passionate coder/developer, exploring the world of coding.</h3>
+<h1 align="center">Hi Coders!👋</h1>
+<h3 align="center">I am Indrajit, passionate coder/developer, exploring the world of coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajitsahu&label=Profile%20Visitors&color=ff8a00&style=flat" alt="indrajitsahu" /> </p>
 
