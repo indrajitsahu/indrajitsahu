@@ -11,7 +11,7 @@
 
 - 📫 To reach me out **indrajit93388@gmail.com**
 
-- 📄 Know about my experiences [(My Resume)](https://docs.google.com/document/d/1ejY1_8qXVXw2RWe7aCAGl9qXzjx8GsVNDiP9t-ILJQ4/edit?usp=sharing)
+- 📄 Know about my experiences [(My Resume)](https://docs.google.com/document/d/1ejY18qXVXw2RWe7aCAGl9qXzjx8GsVNDiP9t-ILJQ4/edit?usp=sharing)
 
 - ⚡ Fun fact **If at first you don’t succeed; call it version 1.0.**
 
