@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/indrajitsahu30" target="blank"><img src="https://img.shields.io/twitter/follow/indrajitsahu30?logo=twitter&style=for-the-badge" alt="indrajitsahu30" /></a> </p>
 
-- 🌱 I’m currently learning **React and polishing MERN.**
+- 🌱 Learning and growing!!!
 
 - 👨‍💻 All of my projects are available at [(My Repo)](https://github.com/indrajitsahu?tab=repositories)
 
